@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SDLEngine/SDLEngine.iml" filepath="$PROJECT_DIR$/SDLEngine/SDLEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDLEngine/SDLEngine-SDLEngine.iml" filepath="$PROJECT_DIR$/SDLEngine/SDLEngine-SDLEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDLEngineProject.iml" filepath="$PROJECT_DIR$/SDLEngineProject.iml" />
     </modules>
   </component>
