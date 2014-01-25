@@ -15,6 +15,7 @@ import android.media.*;
 import android.hardware.*;
 
 
+// CAN YOU READ THIS COMMENT //
 /**
     SDL Activity
 */
